@@ -11,7 +11,6 @@ An end-to-end web app that detects plant diseases from leaf images, explains *wh
 <img width="590" height="260" alt="Screenshot 2026-06-19 161605" src="https://github.com/user-attachments/assets/44066cbb-7ef9-454e-91b0-10e2af0688f8" />
 
 
-*(Add a screenshot or screen recording here — this is the single best thing you can add to make the repo stand out. Drag an image/GIF into this README via GitHub's editor and it'll embed automatically.)*
 
 ## ✨ Features
 
